@@ -14,9 +14,11 @@ Stray Demon now has unique boss music
 
 ## Firelink Shrine:
 
+Lighting overhauled
+
 Removed broken pillars on church floor that blocked navigation
 
-Aqueduct has a new set of stairs leading to it's roof
+Aqueduct has a new set of stairs leading to it's roof with two firebombers
 
 ## Undead Burg / Parish
 
