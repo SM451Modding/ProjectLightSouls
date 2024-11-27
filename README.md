@@ -22,7 +22,7 @@ Aqueduct has a new set of stairs leading to it's roof with two firebombers
 
 ## Undead Burg / Parish
 
-Dragon bridge underside has new hallway
+Dragon bridge underside has new hallway and wood support bridge
 
 Church has less hollow spam
 
