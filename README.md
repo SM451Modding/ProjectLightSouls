@@ -8,17 +8,21 @@ Tutorial Messages have been rewritten
 
 Trees have been added to courtyard and cliffs
 
+PTDE lighting restored in interiors
+
 Asylum Demon's mesh has been altered
 
 Stray Demon now has unique boss music
 
 ## Firelink Shrine:
 
-Lighting overhauled
+Lighting overhauled (half step between PTDE and DSR)
 
 Removed broken pillars on church floor that blocked navigation
 
 Aqueduct has a new set of stairs leading to it's roof with two firebombers
+
+Aqueduct interior has been extended to give illusion of depth where rat and item is
 
 ## Undead Burg / Parish
 
