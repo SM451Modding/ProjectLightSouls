@@ -4,11 +4,13 @@ A modded expansion for Dark Souls Remastered
 # Locations
 ## Northern Undead Asylum:
 
+Lighting Overhaul (PTDE in interiors, custom in exterior)
+
+Texture Overhaul (Changed exterior ground textures with ones from painted world)
+
 Tutorial Messages have been rewritten
 
-Trees have been added to courtyard and cliffs
-
-PTDE lighting restored in interiors
+Trees have been added to cliffs
 
 Asylum Demon's mesh has been altered
 
