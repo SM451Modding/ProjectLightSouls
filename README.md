@@ -28,6 +28,10 @@ Aqueduct interior has been extended to give illusion of depth where rat and item
 
 ## Undead Burg / Parish
 
+First bonfire has been moved back to just before the first dragon encounter
+
+Undead Male Merchant has been moved to the Taurus Tower
+
 Dragon bridge underside has new hallway and wood support bridge
 
 Church has less hollow spam
