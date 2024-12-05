@@ -42,6 +42,14 @@ Dragon bridge underside has new hallway and wood support bridge
 
 Church has less hollow spam
 
+## Darkroot Garden / Basin
+
+Restored PTDE lighting
+
+## Blighttown
+
+Quelaag's design has been altered to match her concept art
+
 ## Great Hollow
 
 Removed out of bounds basilisks that die on map load
