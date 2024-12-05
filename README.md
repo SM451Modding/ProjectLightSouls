@@ -22,6 +22,10 @@ Lighting overhauled (half step between PTDE and DSR)
 
 Removed broken pillars on church floor that blocked navigation
 
+Fixed high collision on church front door
+
+Fixed low collision where they used a copy of the elevator to block a cliff for some fuckin reason
+
 Aqueduct has a new set of stairs leading to it's roof with two firebombers
 
 Aqueduct interior has been extended to give illusion of depth where rat and item is
@@ -30,11 +34,21 @@ Aqueduct interior has been extended to give illusion of depth where rat and item
 
 First bonfire has been moved back to just before the first dragon encounter
 
+Death planes near Taurus Tower which were broken in vanilla have been repaired
+
 Undead Male Merchant has been moved to the Taurus Tower
 
 Dragon bridge underside has new hallway and wood support bridge
 
 Church has less hollow spam
+
+## Great Hollow
+
+Removed out of bounds basilisks that die on map load
+
+## Painted World
+
+Fixed high collision on roof rafters
 
 ## Lost Izalith
 
