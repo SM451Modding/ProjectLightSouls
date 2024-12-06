@@ -112,6 +112,8 @@ Cresent Moon Grass from Demon Souls, sold by Petrus
 
 Blood Vials from Bloodborne, sold by Male Undead Merchant
 
+Life Gems from Dark Souls 2, sold by Andre
+
 # Misc
 
 Company Logos now black
