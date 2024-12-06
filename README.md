@@ -46,6 +46,8 @@ Church has less hollow spam
 
 Restored PTDE lighting
 
+Artorias Arena has been added to the distance
+
 ## Blighttown
 
 Quelaag's design has been altered to match her concept art
