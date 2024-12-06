@@ -6,8 +6,6 @@ A modded expansion for Dark Souls Remastered
 
 Lighting Overhaul (PTDE in interiors, custom in exterior)
 
-Texture Overhaul (Changed exterior ground textures with ones from painted world)
-
 Tutorial Messages have been rewritten
 
 Trees have been added to cliffs
