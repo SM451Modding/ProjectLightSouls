@@ -10,7 +10,7 @@ Tutorial Messages have been rewritten
 
 Trees have been added to cliffs
 
-Asylum Demon's mesh has been altered
+Asylum Demon's mesh has been altered to be fatter, textures have been altered to give it a richer blue
 
 Stray Demon now has unique boss music
 
