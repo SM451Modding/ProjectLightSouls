@@ -36,6 +36,8 @@ Death planes near Taurus Tower which were broken in vanilla have been repaired
 
 Undead Male Merchant has been moved to the Taurus Tower
 
+Taurus Demon has darker colors to match his PTDE appearance
+
 Dragon bridge underside has new hallway and wood support bridge
 
 Church has less hollow spam
@@ -116,7 +118,7 @@ Life Gems from Dark Souls 2, sold by Andre
 
 # Misc
 
-Company Logos now black
+Company Logos in style of trailers
 
 New Title Screen
 
