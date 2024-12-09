@@ -78,6 +78,14 @@ Baby Nail from Demon Souls, Sold by Female Undead Merchant
 
 ## Armor
 
+OG:
+
+Knight Set - PTDE tex upscale new spec map
+
+Elite Knight Set - PTDE tex upscale new spec map
+
+New:
+
 Fluted Set from Demon Souls, Found on Undead Burg/Parish Dragon Bridge
 
 Top Hat (Chester helm without mask), sold by Domhall
